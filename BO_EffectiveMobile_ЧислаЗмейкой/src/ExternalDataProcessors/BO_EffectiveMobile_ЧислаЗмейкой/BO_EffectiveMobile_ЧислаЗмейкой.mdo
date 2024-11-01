@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="74e2aa37-6444-46ee-a80d-934c1ecbed02">
+  <producedTypes>
+    <objectType typeId="b9125498-6c5a-4cce-baf9-35f04689f626" valueTypeId="6f547faa-e9d2-4d02-baac-0959e2c3cf84"/>
+  </producedTypes>
+  <name>BO_EffectiveMobile_ЧислаЗмейкой</name>
+  <synonym>
+    <key>ru</key>
+    <value>Вывод чисел по спирали</value>
+  </synonym>
+  <comment>Вывод чисел по убыванию от левого верхнего угла по часовой стрелке к центру</comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="d9e02e49-9ade-48d4-be67-8520826ecf20"/>
+  <defaultForm>ExternalDataProcessor.BO_EffectiveMobile_ЧислаЗмейкой.Form.Форма</defaultForm>
+  <forms uuid="31b371b7-132a-4978-8741-f3d772f17427">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
